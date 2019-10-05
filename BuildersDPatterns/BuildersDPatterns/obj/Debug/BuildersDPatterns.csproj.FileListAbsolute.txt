@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\TI 1\BuildersDPatterns\BuildersDPatterns\bin\Debug\BuildersDPatterns.exe.config
+C:\Users\Asus\Desktop\TI 1\BuildersDPatterns\BuildersDPatterns\bin\Debug\BuildersDPatterns.exe
+C:\Users\Asus\Desktop\TI 1\BuildersDPatterns\BuildersDPatterns\bin\Debug\BuildersDPatterns.pdb
+C:\Users\Asus\Desktop\TI 1\BuildersDPatterns\BuildersDPatterns\obj\Debug\BuildersDPatterns.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\TI 1\BuildersDPatterns\BuildersDPatterns\obj\Debug\BuildersDPatterns.exe
+C:\Users\Asus\Desktop\TI 1\BuildersDPatterns\BuildersDPatterns\obj\Debug\BuildersDPatterns.pdb

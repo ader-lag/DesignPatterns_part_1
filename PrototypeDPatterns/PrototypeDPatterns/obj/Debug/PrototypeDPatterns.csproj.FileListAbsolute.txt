@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\TI 1\PrototypeDPatterns\PrototypeDPatterns\bin\Debug\PrototypeDPatterns.exe.config
+C:\Users\Asus\Desktop\TI 1\PrototypeDPatterns\PrototypeDPatterns\bin\Debug\PrototypeDPatterns.exe
+C:\Users\Asus\Desktop\TI 1\PrototypeDPatterns\PrototypeDPatterns\bin\Debug\PrototypeDPatterns.pdb
+C:\Users\Asus\Desktop\TI 1\PrototypeDPatterns\PrototypeDPatterns\obj\Debug\PrototypeDPatterns.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\TI 1\PrototypeDPatterns\PrototypeDPatterns\obj\Debug\PrototypeDPatterns.exe
+C:\Users\Asus\Desktop\TI 1\PrototypeDPatterns\PrototypeDPatterns\obj\Debug\PrototypeDPatterns.pdb
